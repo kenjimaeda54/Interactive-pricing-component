@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Changelle Interactive-pricing-component
 - Conclui mmeu primeiro  desafio do https://www.frontendmentor.io
-- Tela interativa simulando limite de credito
+- Tela interativa simulando limite de cartão de credito
 - Utilizei type script. Principios  Type Guards e Type Annotations
 - Segui boas praticas de progamação
 
