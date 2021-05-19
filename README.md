@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Changelle Interactive-pricing-component
+- Conclui mmeu primeiro  desafio do https://www.frontendmentor.io
+- Tela interativa simulando limite de credito
+- Utilizei type script. Principios  Type Guards e Type Annotations
+- Segui boas praticas de progamação
+
+## Material Ui
+- Dois componentes foram utilizados da biblioteca Material Ui
+- Slider é Switch
+- Para custommizar os estilos usei  withStyles
+- Para utilizar os recursos dessa ferramenta precisa apenas realizar a instalção da dependencia na documentação https://material-ui.com/pt/getting-started/installation/  e importar os compomentes.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
