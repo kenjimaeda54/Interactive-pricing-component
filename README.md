@@ -9,11 +9,11 @@ Front Mentor changelles ajuda voce melhorar suas habilidades construindo projeto
 ## Tabelas de conteudos 
 * Visão geral
   * <a href='#Desafio' >  Desafio </a>
-  * Links
+  * <a href='#Link' >  Links </a>
 * Meus processos
-  * Construção
-  * O que aprendi
-  * Feature
+  * <a href='#Construção' >  Construção </a>   Construção
+  * <a href='#Oque aprendi' >  Aprendizado </a>
+  * <a href='#Feature' >  Feature </a>Feature
 * Ator
 
 ## Visão Geral
