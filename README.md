@@ -8,12 +8,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  
 ## Tabelas de conteudos 
 - Visão geral
-   *O desafio
-    *Links
+  * O desafio
+    * Links
 - Meus processos
-     *Construção
-     *O que aprendi
-     *Feture
+  * Construção
+    * O que aprendi
+      * Feature
 - Ator
   
 
