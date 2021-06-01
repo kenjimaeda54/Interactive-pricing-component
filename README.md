@@ -58,7 +58,7 @@ export const SliderBlue = withStyles({
   - Hooks
   - withStyles
   - Solid
-  - Medi Screen
+  - Media Screen
 
 ## Autor
  - Frontend Mentor - [@kenjimaeda54](https://www.frontendmentor.io/profile/kenjimaeda54)
