@@ -29,10 +29,9 @@ Front Mentor changelles ajuda voce melhorar suas habilidades construindo projeto
 
 ## O que eu aprendi
 
-Eu aprendi a manipular estados funcionais do React,leitura de documentações,manipular estilos é componentes
-do </b> 
-[Material Ui](https://material-ui.com/pt/) é um exelente framework de componentes para React,
-documentação [docs](https://material-ui.com/pt/getting-started/installation/  )</br> 
+Eu aprendi a manipular estados funcionais do React,leitura de documentações é manipular estilos é componentes do 
+[Material Ui](https://material-ui.com/pt/)</br>
+Este framework é excelente para compomentes em React documentação [docs](https://material-ui.com/pt/getting-started/installation/  )</br> 
 Utilizei dois componentes SLider e o togle
 
 ~~~javascript 
