@@ -37,7 +37,8 @@ Logia de programação
 documentação [docs](https://material-ui.com/pt/getting-started/installation/  ) 
 Utilizei dois componentes SLider e o togle
 
-'   export const SliderBlue = withStyles({
+``` 
+export const SliderBlue = withStyles({
   thumb: {
     color: blue[300],
     height: 15,
@@ -45,8 +46,8 @@ Utilizei dois componentes SLider e o togle
   //track estilo aplicado no campo selecionado
   track: {
     color: blue[100],
-  }, '
-
+  }, 
+ ``` 
 
 ## Available Scripts
 
