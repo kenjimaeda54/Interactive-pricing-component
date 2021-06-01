@@ -45,7 +45,7 @@ export const SliderBlue = withStyles({
   track: {
     color: blue[100],
   }, 
- ~~~javascript
+ ~~~
 
 ## Available Scripts
 
