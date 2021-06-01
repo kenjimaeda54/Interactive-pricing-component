@@ -13,7 +13,7 @@ Front Mentor changelles ajuda voce melhorar suas habilidades construindo projeto
 * Meus processos
   * <a href='#Construção' >  Construção </a>   Construção
   * <a href='#O que eu aprendi' >  Aprendizado </a>
-  * <a href='#Feature' >  Feature </a>Feature
+  * <a href='#Feature' >  Feature </a>
 * <a href='#Autor' >  Autor </a> 
 
 ## Visão Geral
