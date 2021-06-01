@@ -15,13 +15,37 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     * O que aprendi
       * Feature
 - Ator
-  
 
-## Material Ui
-- Dois componentes foram utilizados da biblioteca Material Ui
-- Slider é Switch
-- Para custommizar os estilos usei  withStyles
-- Para utilizar os recursos dessa ferramenta precisa apenas realizar a instalção da dependencia na documentação https://material-ui.com/pt/getting-started/installation/  e importar os compomentes.
+## Visão Geral
+## Desafio
+  Usuario deveria estar pronto:
+  - Adapatar o layout do saite conforme o tabamanho da tela do dispositivo 
+  - Ver o estado foco para todos os elementos da tela interativo da tela
+  - Usar controle deslizante para ver os preços para diferentes numeros de visualização
+
+## Links
+ - Saite da solução:[interactive-pricing-kenji](https://interactive-pricing-kenji.netlify.app/)
+ - Url da solução: [Kenji solutions](https://www.frontendmentor.io/solutions/react-js-type-script-e-css-lq_nexDxp)
+
+
+## O que eu aprendi
+
+Eu aprendi a manipular estados funcionais do React,leitura de documentações,manipular estilos componentes é estilos 
+do [Material Ui](https://material-ui.com/pt/)
+Logia de programação 
+[Material Ui](https://material-ui.com/pt/) é uma exelente framework de componentes para React,
+documentação [docs](https://material-ui.com/pt/getting-started/installation/  ) 
+Utilizei dois componentes SLider e o togle
+
+'   export const SliderBlue = withStyles({
+  thumb: {
+    color: blue[300],
+    height: 15,
+  },
+  //track estilo aplicado no campo selecionado
+  track: {
+    color: blue[100],
+  }, '
 
 
 ## Available Scripts
