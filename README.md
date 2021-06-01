@@ -35,7 +35,7 @@ do </b>
 documentação [docs](https://material-ui.com/pt/getting-started/installation/  )</br> 
 Utilizei dois componentes SLider e o togle
 
-``` 
+~~~ 
 export const SliderBlue = withStyles({
   thumb: {
     color: blue[300],
@@ -45,7 +45,7 @@ export const SliderBlue = withStyles({
   track: {
     color: blue[100],
   }, 
- ``` 
+ ~~~
 
 ## Available Scripts
 
