@@ -7,14 +7,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Front Mentor changelles ajuda voce melhorar suas habilidades construindo projetos realistas 
  
 ## Tabelas de conteudos 
-- Visão geral
+* Visão geral
   * O desafio
-    * Links
-- Meus processos
+  * Links
+* Meus processos
   * Construção
-    * O que aprendi
-      * Feature
-- Ator
+  * O que aprendi
+  * Feature
+* Ator
 
 ## Visão Geral
 ## Desafio
