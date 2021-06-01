@@ -2,11 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Changelle Interactive-pricing-component
-- Conclui mmeu primeiro  desafio do https://www.frontendmentor.io
-- Tela interativa simulando limite de cartão de credito
-- Utilizei type script. Principios  Type Guards e Type Annotations
-- Segui boas praticas de progamação
+## Front Mentor - Interactive-pricing-component
+ Esta é a solução para [Interactive pricing component changelle on Frontend Mentor] 
+ Front Mentor changelles ajdua voce melhorar suas habilidades construindo projetos realistas 
+ 
+## Tabelas de conteudos 
+  *Visão geral
+     *O desafio
+     *Links
+  *Meus processos
+     *Construção
+     *O que aprendi
+     *Feture
+  *Ator
+  
 
 ## Material Ui
 - Dois componentes foram utilizados da biblioteca Material Ui
