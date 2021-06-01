@@ -26,6 +26,15 @@ Front Mentor changelles ajuda voce melhorar suas habilidades construindo projeto
  - Saite da solução:[interactive-pricing-kenji](https://interactive-pricing-kenji.netlify.app/)
  - Url da solução: [Kenji solutions](https://www.frontendmentor.io/solutions/react-js-type-script-e-css-lq_nexDxp)
 
+## Construção
+  - React
+  - CSS
+  - FlexBox
+  - JSX
+  - TypeScript
+  - Material Ui
+  
+
 
 ## O que eu aprendi
 
@@ -45,6 +54,14 @@ export const SliderBlue = withStyles({
     color: blue[100],
   }, 
  ~~~
+ # Feature
+  - Hooks
+  - withStyles
+  - Solid
+  - Medi Screen
+
+## Autor
+ - Frontend Mentor - [@kenjimaeda54](https://www.frontendmentor.io/profile/kenjimaeda54)
 
 ## Available Scripts
 
