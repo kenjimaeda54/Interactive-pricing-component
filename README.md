@@ -31,7 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## O que eu aprendi
 
 Eu aprendi a manipular estados funcionais do React,leitura de documentações,manipular estilos é componentes
-do [Material Ui](https://material-ui.com/pt/)</b> 
+do </b> 
 [Material Ui](https://material-ui.com/pt/) é uma exelente framework de componentes para React,
 documentação [docs](https://material-ui.com/pt/getting-started/installation/  )</br> 
 Utilizei dois componentes SLider e o togle
