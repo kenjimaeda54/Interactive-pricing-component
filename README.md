@@ -18,10 +18,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Visão Geral
 ## Desafio
-  Usuario deveria estar pronto:
-  - Adapatar o layout do saite conforme o tabamanho da tela do dispositivo 
-  - Ver o estado foco para todos os elementos da tela interativo da tela
-  - Usar controle deslizante para ver os preços para diferentes numeros de visualização
+- Usuario deveria estar pronto:
+   Adapatar o layout do saite conforme o tabamanho da tela do dispositivo </br>Ver o estado foco para todos os elementos da tela interativo da tela</br>
+   Usar controle deslizante para ver os preços para diferentes numeros de visualização
 
 ## Links
  - Saite da solução:[interactive-pricing-kenji](https://interactive-pricing-kenji.netlify.app/)
@@ -32,7 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Eu aprendi a manipular estados funcionais do React,leitura de documentações,manipular estilos é componentes
 do </b> 
-[Material Ui](https://material-ui.com/pt/) é uma exelente framework de componentes para React,
+[Material Ui](https://material-ui.com/pt/) é um exelente framework de componentes para React,
 documentação [docs](https://material-ui.com/pt/getting-started/installation/  )</br> 
 Utilizei dois componentes SLider e o togle
 
