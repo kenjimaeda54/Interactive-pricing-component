@@ -19,7 +19,7 @@ Front Mentor changelles ajuda voce melhorar suas habilidades construindo projeto
 ## Visão Geral
 ## Desafio
 - Usuario deveria estar pronto:</br>
-   Adapatar o layout do saite conforme o tabamanho da tela do dispositivo </br>Ver o estado foco para todos os elementos interativo da tela</br>
+   Adapatar o layout do saite conforme o tamanho da tela do dispositivo </br>Ver o estado foco para todos os elementos interativo da tela</br>
    Usar controle deslizante para ver os preços para diferentes numeros de visualização é togle para fixar o preço
 
 ## Links
