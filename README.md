@@ -19,8 +19,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Visão Geral
 ## Desafio
 - Usuario deveria estar pronto:</br>
-   Adapatar o layout do saite conforme o tabamanho da tela do dispositivo </br>Ver o estado foco para todos os elementos da tela interativo da tela</br>
-   Usar controle deslizante para ver os preços para diferentes numeros de visualização
+   Adapatar o layout do saite conforme o tabamanho da tela do dispositivo </br>Ver o estado foco para todos os elementos interativo da tela</br>
+   Usar controle deslizante para ver os preços para diferentes numeros de visualização é togle para fixar o preço
 
 ## Links
  - Saite da solução:[interactive-pricing-kenji](https://interactive-pricing-kenji.netlify.app/)
