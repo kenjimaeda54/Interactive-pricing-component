@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Front Mentor - Interactive-pricing-component
- Esta é a solução para [Interactive pricing component changelle on Frontend Mentor] 
+ Esta é a solução para [Interactive pricing component changelle on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8) 
  Front Mentor changelles ajdua voce melhorar suas habilidades construindo projetos realistas 
  
 ## Tabelas de conteudos 
